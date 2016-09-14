@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Settings">
+        <menu>
+            <item
+                android:id="@+id/nav_con"
+                android:title="Connection" />
+        </menu>
+    </item>
+
+
+    <item android:title="PID">
+        <menu>
+            <item
+                android:id="@+id/nav_pid"
+                android:title="PID" />
+        </menu>
+    </item>
+
+</menu>
